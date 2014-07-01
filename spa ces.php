@@ -9,9 +9,12 @@ class Gac
     const SUCCESS_RATE = 1;
     const LETTERS = "abcdefghijklmnopqrstuvwxyz ";
     const OFFSPRING = 2;
+        const OFFSPRING2= 123;
+
     public function Gac($text, $arg3 = [])
     {
         $this->text = $text;
+                $this->text = $text + 1;
         $this->lenght = strlen($this->text);
         $this->population = 0;
         $this->max_rate = 0;
