@@ -14,3 +14,6 @@ var cemas = '123asd';
 a();
 
 b();
+
+var outrascenas = '123asd' + "321";
+
