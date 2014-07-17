@@ -5,7 +5,7 @@ function a() {
 
 
 if(1 == 2 && 3 == 5) {
-  return;
+  return
 }
 
 var cenas = "asd132";
