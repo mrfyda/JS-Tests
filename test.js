@@ -18,8 +18,6 @@ b();
 var outrascenas = '123asd' + "321";
 var as= "321";
 
-var outrasoutrasnovascenas = '123asd' + "321";
-
 
 
 var asd = '123asd' + "321";
