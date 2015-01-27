@@ -19,11 +19,6 @@ var outrascenas = '123asd' + "321";
 var as= "321";
 
 
-
-var asd = '123asd' + "321";
-
-
-var dsads = '123asd' + "321";
  ; var hr = '123asd' + "321";
 
 ;;;;;;
