@@ -4,7 +4,7 @@ function a() {
 
 
 
-if(1 == 2 && 3 == 5) {
+if(1 == "2" && "3" == 5) {
   return;
 }
 
@@ -14,3 +14,12 @@ var cemas = '123asd';
 a();
 
 b();
+
+var outrascenas = '123asd' + "321";
+var as= "321";
+
+
+
+var asd = '123asd' + "321";
+
+
