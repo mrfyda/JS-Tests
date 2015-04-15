@@ -23,12 +23,3 @@ var as= "321";
 var asd = '123asd' + "321";
 
 
-var dsads = '123asd' + "321";
- var hrth = '123asd' + "321"; var hr = '123asd' + "321";
-
-;;;;;;
-
-
-if(1 == "2" && "3" == 5) {
-  return;
-}
