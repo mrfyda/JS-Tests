@@ -10,6 +10,8 @@ if(1 == "2" && "3" == 5) {
 
 var cenas = "asd132";
 
+if(true) b();
+
 var cemas = '123asd';
 a();
 
