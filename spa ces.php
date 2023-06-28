@@ -1,8 +1,10 @@
 <?php
+
+
 class Gac
 {
     
-    const POPULATION_SIZE = 20;
+    const POPULATION_SIZE = 10;
     const MUTATION_RATE = 10;
     const MUTATION_SIZE = 100;
     const SURVIVORS = 10;
